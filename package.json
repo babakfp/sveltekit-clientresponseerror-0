@@ -1,0 +1,19 @@
+{
+	"name": "sveltekit-clientresponseerror-0",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/kit": "^1.5.0",
+		"svelte": "^3.54.0",
+		"vite": "^4.0.0"
+	},
+	"dependencies": {
+		"pocketbase": "^0.10.1"
+	}
+}
